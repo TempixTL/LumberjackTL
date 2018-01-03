@@ -1,0 +1,5 @@
+name: LumberjackTL
+version: 1.1.1
+author: TempixTL
+description: More realistic destruction of trees in minecraft
+main: me.lauerman.lumberjack.Lumberjack
